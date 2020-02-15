@@ -139,7 +139,7 @@
     <value>You are Makoto Midorikawa. During the day, you may choose an agent to reveal their role.  However - in doing so, your role could be revealed to the wolves! (40% chance)</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value>Congrats! You're the village drunk, BettyRumblepants! (and really, everyone knows it...)</value>
+    <value>Congrats! You're the village stoner, BettyRumblepants! (and really, everyone knows it...)</value>
   </string>
   <string key="RoleInfoGuardianAngel">
     <value>You are the N'zeer. Each night, you may choose an agent to save.  However, if you choose a wolf, there is a 50% chance you will die.</value>
@@ -213,7 +213,7 @@
   <string key="SeerEaten" >
     <value >The villagers awake in the morning, to find the disemboweled remains of {0} haunched over an ouija board and tarot cards. Enoch Dolby is dead.</value>
   </string>
-  <string key="DrunkEaten" >
+  <string key="Eaten" >
     <value >Everyone wakes to the smell of burning alcohol and wood... The pub is on fire!!!!  After putting the fire out, the crispy remains of {0} are found, torn apart...</value>
   </string>
   <string key="FoolEaten" >
@@ -241,7 +241,7 @@
     <value >Oh no! The wolves ate you. NOMNOMNOMNOM</value>
   </string>
   <string key="WolvesEatDrunk" >
-    <value >Oh no! {0} was a BettyRumblepants! Now you are drunk, and can't attack tomorrow night..</value>
+    <value >Oh no! {0} was a BettyRumblepants! Now you are stoned, and can't attack tomorrow night..</value>
   </string>
   <string key="GuardWolf" >
     <value >You tried to guard a wolf! The wolf has eaten you.</value>
